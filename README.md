@@ -6,6 +6,6 @@ Data Science work portfolio
 
 * Objective: Objective: This research will explore loan distribution and how different loan and borrower characteristics impact the likelihood of default on a personal loan.
 
-# [Predicting Future Bike Demand in Seoul](https://github.com/Sihoon-Daniel/Past_Projects/blob/main/02-Predicting-Seoul-Bike-Demand/A-Team5-Predicting-Seoul-Bike-Demand.ipynb)
+# [Project 2: Predicting Future Bike Demand in Seoul](https://github.com/Sihoon-Daniel/Past_Projects/blob/main/02-Predicting-Seoul-Bike-Demand/A-Team5-Predicting-Seoul-Bike-Demand.ipynb)
 
 * Objective: The goal is to use the Seoul Bike Rental database to predict future bike demand based on attributes such as seasons, the weather conditions, and the number of bikes rented per hour. The bikes are are rented out by app based companies such as Seoul Bike.
