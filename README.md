@@ -1,7 +1,7 @@
 # Sihoon_Portfolio
 Data Science work portfolio
 
-# [Project 1: Exploring Lending Club Loan Default Rates](https://github.com/soltaniehha/Business-Analytics-Toolbox/blob/master/docs/team-projects/Summer-2021/B2-Team7-Exploring-Lending-Club-Loan-Default-Rates.ipynb)
+# [Project 1: Exploring Lending Club Loan Default Rates](https://github.com/Sihoon-Daniel/Past_Projects/blob/main/01-Exploring-Lending-Club-Default-Rate/B2-Team7-Exploring-Lending-Club-Loan-Default-Rates.ipynb)
 * Objective: This research will explore loan distribution and how different loan and borrower characteristics impact the likelihood of default on a personal loan.
 ![1](https://github.com/Sihoon-Daniel/Sihoon_Portfolio/blob/main/images/Lending_Club.png)
 
