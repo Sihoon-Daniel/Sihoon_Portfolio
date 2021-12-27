@@ -18,7 +18,7 @@ Data Science work portfolio
 * Objective: To predict whether the person will earn more than $50K per year or less based on information of an individual (age, workclass, education, marital status, occupation, race, sex, gender, hours of work, etc...)
 * Methods: Boosting, Random Forest, Lasso & Ridge Regression, Decision Tree
 
-![DecisionTree](https://github.com/Sihoon-Daniel/Sihoon_Portfolio/blob/main/images/Income_Classification.PNG)
+![DecisionTree](https://github.com/Sihoon-Daniel/Sihoon_Portfolio/blob/main/images/Income_Classification.png)
 
 # [Project 4:Effect of Section time on Attendance](https://github.com/Sihoon-Daniel/Past_Projects/tree/main/04-Attendance-and-Section-Time)
 
